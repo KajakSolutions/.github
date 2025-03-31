@@ -20,7 +20,7 @@ Kajak Solutions to zgrany zespół pasjonatów technologii, specjalizujących si
 ---
 
 ## 📬 Kontakt:
-🌐 [kajaksolutions.pl](https://kajaksolutions.granacik.pl)  
+🌐 [kajaksolutions.pl](https://kajaksolutions.granacik.pl/)  
 🐙 [GitHub](https://github.com/kajaksolutions)  
 
 > "Spływaj z nami w stronę nowoczesnych technologii!" 🚣‍♂️💡
